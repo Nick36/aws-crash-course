@@ -1,0 +1,15 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+      {
+        "Sid": "AllowS3Access",
+        "Action": [
+          "s3:PutObject"
+        ],
+        "Effect": "Allow",
+        "Resource": [
+          "arn:aws:s3:::s3-exercise-5321343/greeting/*"
+        ]
+      }
+  ]
+}

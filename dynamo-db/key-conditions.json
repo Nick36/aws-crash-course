@@ -1,0 +1,10 @@
+{
+  "Artist": {
+      "AttributeValueList": [
+          {   
+              "S": "Led Zeppelin"
+          }   
+      ],  
+      "ComparisonOperator": "EQ"
+  }
+}
