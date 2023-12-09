@@ -26,6 +26,9 @@ They are covering some of the most useful everyday operations related to the ser
 scoop install aws
 ```
 
+[Install Git Bash](https://gitforwindows.org/)
+
+
 ##### MAC
 
 ```bash
